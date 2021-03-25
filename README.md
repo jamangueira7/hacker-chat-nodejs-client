@@ -46,10 +46,6 @@ Os usuarios carlos e victor003 estão na sala2.
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- Entre na pasta "server" para inicializar o servidor.
-- npm install.
-- 'npm run dev' para iniciar o projeto.
-- Entre na pasta "client" para inicializar o cliente.
 - npm install.
 - 'npm run user1' para iniciar o projeto.
 - Execute os comandos do arquivo packege.json do client tag scripts para criar mais usuarios.
