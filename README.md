@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Yarn](https://yarnpkg.com/) - 1.22.4
 - [Npm](https://www.npmjs.com/) - 6.14.5
-- [NodeJS](https://nodejs.org/en/) - v14.4.0
+- [NodeJS](https://nodejs.org/en/) - v15.12.0
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 💻 Projeto
